@@ -1,0 +1,3 @@
+# c-envanter-yonetimi
+MySql database
+Visual Studio 2019
